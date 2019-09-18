@@ -1,2 +1,3 @@
 ---
-dimitar-batchvarov-axway/mynewrepo
+- src: https://github.com/dimitar-batchvarov-axway/mynewrepo
+  name: batchvarov
