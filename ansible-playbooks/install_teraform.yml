@@ -1,6 +1,5 @@
 #playbook batchvarov
 ---
 - hosts: localhost
-
   roles:
-    - role: batchvarov
+    - batchvarov
